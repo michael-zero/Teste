@@ -1,0 +1,987 @@
+[{
+    "code": "60 ",
+    "bairro": "AEROPORTO ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Aeroporto compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Santos Dumont com a Rua Sergipe, segue, por esta, até a Rua Pamaguá e daí até a Av. Campo Maior; prossegue, por esta, até a Rua Anísio Pires, pela qual atinge a Av. Centenário; deste ponto, segue rumo à Av. União, depois, à Rua Primeiro de Maio, por onde segue até a Rua Pernambuco; daí, pela Rua Área Leão e novamente pela Rua Pernambuco, até a Av. Santos Dumont, pela qual retoma ao ponto de partida. ",
+    "inicio": "1837h ",
+    "termino": "0210h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "61 ",
+    "bairro": "ÁGUA MINERAL ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Água Mineral compreende a área contida no seguinte perímetro partindo do encontro da Rua Quilombo de Palmares com a Av. Duque de Caxias, segue, por esta, e pela Rua Emanuel Liarth, até o limite do terreno da EMBRAPA; daí, continua até o eixo do Rio Poti, por onde atinge o alinhamento da Rua Quilombo de Palmares e, retoma ao ponto de origem. ",
+    "inicio": "1834h ",
+    "termino": "0147h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "62 ",
+    "bairro": "ALEGRE ",
+    "zona": "NORTE ",
+    "descricao": "Rural Rio Poti Aroeiras Parque Brasil / Santa Rosa O bairro Alegre compreende a área contida no seguinte perímetro partindo do encontro da Av. Josué Moura Santos com a Rua Rosana Neres, segue, por esta, até a Rua Monte Alto; por esta, atravessa a Rua Amadeus Paulo e, chegando ao limite leste da Vila Monte Alegre, segue, rumo norte até o ponto com coordenadas 4° 59 56,63\" Sul e 42° 49 14,38\" Oeste; daí, seguindo 977 metros, por divisa de gleba, atinge o ponto com coordenadas 4° 59 45,84\" Sul e 42° 48 44,35\" Oeste; depois, com 85 metros chega ao ponto com coordenadas 4° 59 43,71\" Sul e 42° 48 42,59\" Oeste, no contorno sul do Conjunto Jacinta Andrade; por este contorno, atinge a linha de perímetro urbano e, por esta, alcança a divisa das glebas Alegre e Aroeiras; pela citada divisa, segue até o eixo do Rio Poti; pelo curso dágua, segue até o alinhamento do limite leste da propriedade Santa Rosa; daí, alcança a Av. Josué Moura Santos, ",
+    "inicio": "0700h ",
+    "termino": "1025h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "63 ",
+    "bairro": "ALTO ALEGRE ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Alto Alegre compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Amarante com a Rua Castelo do Piauí, pela qual segue até a Alameda Mestre João Isidoro França; por esta, até a Rua Jean Lelones, por onde continua até a Rua Sapucaia; depois, Rua Cedro e Rua Sapucaia novamente; por esta e seu alinhamento alcança o eixo do Rio Poti, seguindo até o alinhamento da Rua Amarante; por esta, atinge o contorno do Conjunto Mocambinho e, novamente, a Rua Amarante e, daí, retoma ao ponto de partida. ",
+    "inicio": "1945h ",
+    "termino": "0222h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "3 ",
+    "bairro": "ANGÉLICA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Angélica está localizado entre a rua Um ao Norte, AV. Pref. Wall Ferraz ao leste, rua 05 ao sul e rua 07 ao oeste ",
+    "inicio": "1202h ",
+    "termino": "1405h ",
+    "dias": "SEG, QUA e SEX DIURNO "
+}, {
+    "code": "4 ",
+    "bairro": "ANGELIM ",
+    "zona": "SUL ",
+    "descricao": "O bairro Angelim compreende a área contida no seguinte perímetro partindo do encontro da Av. Jornalista Francisco Moraes com a Rua Nonato de Oliveira, segue, por esta, até a Av. Prefeito Wall Ferraz (BR-316); daí, rumo sul, segue até a linha de perímetro urbano anterior a expansão pela Lei 3.264, de 09 de janeiro de 2004 (referente à Gleba Angélica e contorno norte do Loteamento Inácio Soares); prossegue por este contorno e pelo limite sul do Loteamento Parque Eliane e respectivo alinhamento até o eixo do Rio Pamaíba; pelo rio, segue até o alinhamento da Rua Josias Carneiro e, por esta, retoma ao ponto de partida. ",
+    "inicio": "0640h ",
+    "termino": "1400h ",
+    "dias": "SEG, QUA e SEX DIURNO "
+}, {
+    "code": "5 ",
+    "bairro": "AREIAS ",
+    "zona": "SUL ",
+    "descricao": "Partindo do eixo do Rio Pamaíba, no alinhamento da Rua Josias Carneiro, segue, pelo rio, até o alinhamento da Rua 02 da Vila São Francisco; por esta via, atinge a Av. Henry Wall de Carvalho; segue, rumo sul, até a Rua Odilon Nunes; daí, prossegue até a Rua 11 de Julho e, depois, pela Rua Josias Carneiro; por esta e seu alinhamento, atinge o eixo do Rio Pamaíba, voltando ao ponto de partida ",
+    "inicio": "0642h ",
+    "termino": "0730h ",
+    "dias": "SEG, QUA E SEX DIURNO "
+}, {
+    "code": "64 ",
+    "bairro": "AROEIRAS ",
+    "zona": "NORTE ",
+    "descricao": "0 bairro Aroeiras compreende a área contida no seguinte perímetro começando no eixo do Rio Poti, no alinhamento correspondente à divisa das glebas Aroeiras e Alegre, segue, por esta divisa até a linha de perímetro urbano; por esta linha, alcança o alinhamento da Rua Caçapava, pela qual e respectivo alinhamento atinge o eixo do Rio Poti, retornando ao ponto de partida. ",
+    "inicio": "0715h ",
+    "termino": "1330h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "39 ",
+    "bairro": "BEIRA RIO ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Beira Rio compreende a área contida no seguinte perímetro partindo do eixo do Rio Poti, no alinhamento da Rua Jacinto Rufino Macedo, segue por esta até a Av. Deputado Paulo Ferraz (BR-343), pela qual chega à ponte do contorno rodoviário; e pelo eixo do rio, retoma ao ponto de partida. ",
+    "inicio": "1133h ",
+    "termino": "1240h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "6 ",
+    "bairro": "BELA VISTA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Bela Vista compreende a área contida no seguinte perímetro partindo do entroncamento da Av. Prefeito Wall Ferraz (BR-316) com a Rua Radialista Benedito Assis; segue, por esta, até a Rua Colombo (Rua 14, no Loteamento Parque Cristiane) e, pelo seu alinhamento atinge o eixo do Rio Poti; prossegue, pelo rio, até o alinhamento da Rua XX do Loteamento Bela Vista llí; por esta, chega à Rua I do mesmo loteamento e, depois à Rua Antônio Francisco Veras; por esta, chega â Av. Prefeito Wall Ferraz (BR-316), seguindo, então, até o ponto de partida ",
+    "inicio": "0630h ",
+    "termino": "1500h ",
+    "dias": "SEG, QUA E SEX DIURNO "
+}, {
+    "code": "65 ",
+    "bairro": "BOM JESUS ",
+    "zona": "NORTE ",
+    "descricao": "Rua Amarante, rua Castelo do Piauí, rua Top Solimar Ribeiro Avelino, rua Prefeiro Freitas Neto ",
+    "inicio": "2345h ",
+    "termino": "0140h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "40 ",
+    "bairro": "BOM PRINCÍPIO ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Bom Princípio compreende a área da zona urbana ao sul dos loteamentos Verdecap 1 e Verdecap II. ",
+    "inicio": "0901h ",
+    "termino": "1024h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "7 ",
+    "bairro": "BRASILAR ",
+    "zona": "SUL ",
+    "descricao": "O bairro Brasilar compreende a área contida no seguinte perímetro partindo do encontro das avenidas Joca Claudino e Prefeito Wall Ferraz (BR-316), segue, por esta, até a Av. Alencar Matos, pela qual atinge a Av. Itaguaí; por esta, alcança a Av. Joca Claudino e retoma ao ponto de partida ",
+    "inicio": "1050h ",
+    "termino": "1321h ",
+    "dias": "SEG, QUA E SEX DIURNO "
+}, {
+    "code": "66 ",
+    "bairro": "BUENOS AIRES ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Buenos Aires compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Duque de Caxias com a Rua Jerumenha, segue, por esta, em direção norte, até a Rua Castelo do Piauí; continua até a Rua Topógrafo Solimar Avelino e, depois, pelas ruas Professora sinhá Borges e Engenheiro Alves Noronha; alcança a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho) e, por esta, a Av. Duque de Caxias; pela avenida e alinhamento chega à Rua Emanuel Liarth, e, novamente à Av. Duque de Caxias, retomando ao ponto de partida. ",
+    "inicio": "1838h ",
+    "termino": "0019h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "67 ",
+    "bairro": "CABRAL ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Cabral compreende a área contida no seguinte perímetro partindo do encontro das avenidas Miguel Rosa e Jacob Almendra, segue, por esta, até a Rua Nina Rodrigues, pela qual prossegue até a Rua Juliano Moreira e, por esta até o eixo do Rio Poti, prosseguindo, por este, em sentido sul, até a Ponte Juscelino Kubitschek; daí, segue, pela Av. Frei Serafim e, depois pela Av. Miguel Rosa, retomando ao ponto de partida. ",
+    "inicio": "1945h ",
+    "termino": "0008h ",
+    "dias": "SEG, QUA e SEX NOTURNO "
+}, {
+    "code": "99 ",
+    "bairro": "CAMPESTRE ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Campestre compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Dr. Aquiles Wall Ferraz com a Rua José Torquato Viana, segue, pela citada rua, até a Av. João Antonio Leitão e, depois, até a Av. Horácio Ribeiro; continua, em direção leste, até a Av. Zequinha Freire; prossegue, por esta, até a Av. Dr. Aquiles Wall Ferraz e, daí, retoma ao ponto de partida ",
+    "inicio": "1212h ",
+    "termino": "1606h ",
+    "dias": "TER,QUI, e SAB DIURNO "
+}, {
+    "code": "8 ",
+    "bairro": "CATARINA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Catarina compreende a área contida no seguinte perímetro partindo do encontro da Rua Quinze de Novembro com a Av. Getúlio Vargas (BR-343), segue, por esta até o eixo do Rio Poti; pelo rio, segue até o alinhamento e pela própria Rua Colombo (Rua 14, no Loteamento Parque Cristiane); prossegue, por esta, até a Rua Alberto Leal Nunes e, depois, até a Rua Gonçalves Dias; rumo norte, atinge a Rua Cícero Soares; por esta, alcança a Rua Quinze de Novembro e, daí, retoma ao ponto de partida. ",
+    "inicio": "0646h ",
+    "termino": "0820h ",
+    "dias": "TER, QUI e SAB NOTURNO "
+}, {
+    "code": "68 ",
+    "bairro": "CENTRO ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Centro compreende a área contida no seguinte perímetro partindo do eixo do Rio Pamaíba sob a Ponte João Luís Ferreira, segue, pela ponte e pela Av. Miguel Rosa até o encontro com a Av. Joaquim Ribeiro; daí, em direção oeste, prossegue, até o eixo do Rio Pamaíba e, por este, retoma ao ponto de partida. ",
+    "inicio": "1920h ",
+    "termino": "0238h ",
+    "dias": "DIÁRIO NOTURNO "
+}, {
+    "code": "69 ",
+    "bairro": "CHAPADINHA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Chapadinha corresponde à área contida no seguinte perímetro partindo do encontro do eixo do Rio Pamaíba com a linha de perímetro urbano (limite norte), segue pela linha até o contorno do Conjunto Residencial Jacinta Andrade; por este contorno, alcança a Rua Brás Honório; por esta via e respectivo alinhamento, atinge o eixo do Rio Pamaíba, retomando ao ponto inicial ",
+    "inicio": "1520h ",
+    "termino": "1600h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "100 ",
+    "bairro": "CIDADE JARDIM ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Cidade Jardim compreende a área contida no seguinte perímetro começa no entroncamento da Av. Presidente Kennedy com a Rua Rafaello Rinaldi; segue, por esta, até a Rua do Fio, pela qual e respectivo alinhamento atinge o eixo do Rio Poti; pelo rio, rumo norte, atinge o alinhamento da Rua Ana Maria Gonçalves Silva; daí, alcança a Av. Josué Moura Santos, por esta chega â Rua Vereador Joel Loureiro, por esta e pelas ruas Alterosas, Lageada, Santana e Genoveva, alcança a Avenida Presidente Kennedy, retomando ao ponto inicial. ",
+    "inicio": "0710h ",
+    "termino": "0940h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "9 ",
+    "bairro": "CIDADE NOVA ",
+    "zona": "SUL ",
+    "descricao": "0 bairro Cidade Nova compreende a área contida no seguinte perímetro partindo do entroncamento da avenidas Industrial Gil Martins e Barão de Castelo Branco, segue, por esta, até a Av. Odilon Araújo; daí, prossegue até a Rua Celso Pinheiro, pela qual atinge a Av. Industrial Gil Martins, retomando, por esta, ao ponto inicial. ",
+    "inicio": "1825h ",
+    "termino": "2050h ",
+    "dias": "SEG, QUA e SEX NOTURNO "
+}, {
+    "code": "41 ",
+    "bairro": "COLORADO ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Colorado compreende a área contida no seguinte perímetro partindo do encontro do alinhamento da Rua Serra Grande com a via férrea, segue, por esta, até a Av. Noé Mendes, por onde prossegue até a Rua Serra Grande e, pelo seu alinhamento, retoma ao ponto de partida. ",
+    "inicio": "0723h ",
+    "termino": "0900h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "42 ",
+    "bairro": "COMPRIDA ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Comprida compreende a área contida no seguinte perímetro começa no eixo do Rio Poti, no alinhamento da Av. Noé Mendes (linha de transmissão da CHESF); segue, por esta até a Rua Monsenhor Zaul Pedreira; daí, segue até a Rua Jornalista Wilson Fernandes, continua, por esta e seu alinhamento até o eixo do Rio Poti, pelo qual retoma ao ponto inicial. ",
+    "inicio": "1107h ",
+    "termino": "1243h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "10 ",
+    "bairro": "CRISTO REI ",
+    "zona": "SUL ",
+    "descricao": "O bairro Cristo Rei compreende a área contida no seguinte perímetro; parte do entroncamento da Rua Mato Grosso com a Av. Higino Cunha; por esta e pela Ponte Wall Ferraz, segue até o eixo do Rio Poti; pelo curso d'água, atinge o alinhamento da Av. Industrial Gil Martins, pela qual prossegue, rumo oeste, até a Rua Celso Pinheiro; continua, por esta, até a Avenida Odilon Araújo, pela qual alcança a Rua Desembargador José Messias, chegando à Av. São Raimundo; daí, atinge a Rua Mato Grosso, por onde retoma ao ponto inicial. ",
+    "inicio": "2050h ",
+    "termino": "2202h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "11 ",
+    "bairro": "DISTRITO INDUSTRIAL ",
+    "zona": "SUL ",
+    "descricao": "O bairro Distrito Industrial compreende a área contida no seguinte perímetro partindo do encontro da Rua General João Henrique Gayoso com a Av. Henry Wall de Carvalho, segue até a Av. Walfrido Salmito; depois, pelas ruas 11 de Agosto e Odilon Nunes, retoma à Av. Henry Wall de Carvalho; daí, segue, rumo norte, até a Rua 02 da Vila São Francisco; por esta e, no seu alinhamento, alcança o eixo do Rio Pamaíba; pelo rio, segue até o alinhamento da Rua General João Henrique Gayoso, retomando ao ponto inicial. ",
+    "inicio": "1430h ",
+    "termino": "1525h ",
+    "dias": "TER, QUI e SAB, DIURNO "
+}, {
+    "code": "70 ",
+    "bairro": "EMBRAPA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Embrapa compreende a área contida no seguinte perímetro partindo do encontro da Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho) com a Rua Fotógrafo Carioca, segue, por esta e seu alinhamento até o eixo do rio Poti; pelo rio, prossegue até o alinhamento do limite oeste do terreno da EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária; por este limite, atinga a Rua Emanuel Liarth e atravessa-a, no alinhamento da Av. Duque de Caxias, pela qual retoma ao ponto de partida ",
+    "inicio": "1838h ",
+    "termino": "0128h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "12 ",
+    "bairro": "ESPLANADA ",
+    "zona": "SUL ",
+    "descricao": "0 bairro Esplanada compreende a área contida no seguinte perímetro partindo do encontro das avenidas Prefeito Wall Ferraz (BR-316) e Joca Claudino, segue, por esta, até a Rua Jerusalém, pela qual atinge a Estrada da Pedra Miúda, contorno sul do Loteamento Parque das Esplanadas; por esta, alcança a Av. Prefeito Wall Ferraz (BR-316) e retoma ao ponto de partida. ",
+    "inicio": "0641h ",
+    "termino": "1034h ",
+    "dias": "SEG, QUA e SEX DIURNO "
+}, {
+    "code": "43 ",
+    "bairro": "EXTREMA ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Extrema compreende a área contida no seguinte perímetro começa no encontro das ruas Jornalista Wilson Fernandes e Monsenhor Zaul Pedreira, segue, por esta, até a Rua Juiz José Carvalho Feitosa; daí, novamente pela Rua Monsenhor Zaul Pedreira, antiga a Rua Joaquim Nelson, pela qual e respectivo alinhamento atinge o eixo do Rio Poti; pelo rio, segue até o alinhamento da Rua Monsenhor Zaul Pedreira; por este alinhamento e pela própria rua, retoma ao ponto de partida. ",
+    "inicio": "1026h ",
+    "termino": "1218h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "101 ",
+    "bairro": "FÁTIMA ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Fátima compreende a área contida no seguinte perímetro começa no eixo do Rio Poti sob a Ponte da Primavera; segue pela Av. Universitária e pela Rua Visconde da Pamaíba até a Av. Homero Castelo Branco; daí, prossegue até a Av. Elias João Tajra, seguindo o seu alinhamento até o eixo do Rio Poti, pelo qual retoma ao ponto de partida ",
+    "inicio": "1942h ",
+    "termino": "0222h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "44 ",
+    "bairro": "FLOR DO CAMPO ",
+    "zona": "SUDESTE ",
+    "descricao": "Rua Flor do Campo ",
+    "inicio": "1056h ",
+    "termino": "1123h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "71 ",
+    "bairro": "FREI SERAFIM ",
+    "zona": "NORTE ",
+    "descricao": "0 bairro Frei Serafim compreende a área contida no seguinte perímetro partindo do encontro das avenidas Miguel Rosa e Frei Serafim, segue, por esta e pela Ponte Jusceiino Kubitschek, até o eixo do rio Poti; pelo curso do rio, atinge o alinhamento da Rua José Olímpio de Melo; pela referida rua, segue até a via férrea; daí, pela Rua São Pedro e pefa Av. Miguel Rosa, retoma ao ponto inicial. ",
+    "inicio": "1945h ",
+    "termino": "0151h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "45 ",
+    "bairro": "GURUPI ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Gurupi compreende a área contida no seguinte perímetro começa no cruzamento da Avenida João XXIII (BR-343) com a Avenida Zequinha Freire; segue, por aquela, até a Av. Professor Camilo Filho; continua, até a via férrea, pela qual prossegue, em direção leste, até a Av. Joaquim Nelson; atinge a Av. Deputado Paulo Ferraz, chega à Av. João XXIII (BR-343) e, por esta, retomando ao ponto de partida. ",
+    "inicio": "1427h ",
+    "termino": "1540h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "102 ",
+    "bairro": "HORTO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Horto compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Homero Castelo Branco com a Rua Juiz João Almeida, segue, em sentido leste, por esta e pela Rua Desembargador Adalberto Correia Lima, até a Av. Presidente Kennedy (PM 12); continua até a Av. Dom Severino, pela qual prossegue até a Av. Homero Castelo Branco e, por esta, retoma ao ponto de partida. ",
+    "inicio": "1852h ",
+    "termino": "0303h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "72 ",
+    "bairro": "ILHOTAS ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Ilhotas compreende a área contida no seguinte perímetro partindo do entroncamento da Av. Leônidas Melo com a Rua Goiás, segue por esta até a via férrea e, depois, pela Rua José Olímpio de Melo e atinge o eixo do Rio Poti; pelo rio, prossegue até a Ponte Wall Ferraz; por esta e pela Av. Higino Cunha, chega à Av. Leônidas Melo, pela qual retoma ao ponto de partida. ",
+    "inicio": "2014h ",
+    "termino": "0219h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "103 ",
+    "bairro": "ININGA ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Ininga compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Homero Castelo Branco com a Rua Visconde da Pamaíba, segue, por esta e pela Av Universitária, até a ponte da Primavera; daí, segue sobre o eixo do rio atéo alinhamento da Rua Ulisses Marques, pela qual prossegue, em sentido leste, até a Av. Homero Castelo Branco, retomando ao ponto inicial. ",
+    "inicio": "1841h ",
+    "termino": "0208h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "73 ",
+    "bairro": "ITAPERU ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Itaperu compreende a área contida no seguinte perímetro partindo do encontro das avenidas União e Centenário, segue, por esta, até a Alameda Mestre João Isidoro França, atingindo a Rua Castelo do Piauí; alcança, por esta, a Rua Sotero Vaz da Silveira e, prosseguindo até a Av. União, retoma, por esta, ao ponto de partida. ",
+    "inicio": "1837h ",
+    "termino": "0210h ",
+    "dias": "TER, QUI e SAB NOTURNO "
+}, {
+    "code": "46 ",
+    "bairro": "ITARARÉ ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Itararé compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Deputado Paulo Ferraz (BR-343) com a via férrea, segue, por esta, até a Rua Joaquim Nelson; daí, continua até a Rua Monsenhor Zaul Pedreira, pela Rua Juiz José Carvalho Feitosa, novamente pela Rua Monsenhor Zaul Pedreira e pela Rua Desembargador Manoel Felício Pinto; por esta, chega à Av. Deputado Paulo Ferraz (BR-343) e, daí, retoma ao ponto de partida. ",
+    "inicio": "0722h ",
+    "termino": "1230h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "74 ",
+    "bairro": "JACINTA ANDRADE ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Jacinta Andrade corresponde â área do Conjunto Residencial Jacinta Andrade. ",
+    "inicio": "0715h ",
+    "termino": "1600h ",
+    "dias": "TER, QUI e SAB DIURNO "
+}, {
+    "code": "104 ",
+    "bairro": "JÓQUEI ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Jóquei compreende a área contida no seguinte perímetro partindo do eixo do Rio Poti, no alinhamento da Av. Elias João Tajra, segue, por esta, até a Av. Homero Castelo Branco; daí, continua, em direção sul, até a Av. João XXIII, atingindo, por esta e pela Ponte Juscelino Kubitschek o eixo do Rio Poti e retomando ao ponto de partida ",
+    "inicio": "1846h ",
+    "termino": "0248h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "47 ",
+    "bairro": "LIVRAMENTO ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Livramento compreende a área contida no seguinte perímetro partindo do cruzamento da via férrea com a Av. Deputado Paulo Ferraz (BR-343), segue, por esta, até a Rua Joaquim Nelson; depois, na direção sul, até a via férrea, de onde retoma ao ponto de partida. ",
+    "inicio": "1243h ",
+    "termino": "1331h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "13 ",
+    "bairro": "LOURIVAL PARENTE ",
+    "zona": "SUL ",
+    "descricao": "Triunfo / Morada Nova Bela Vista / Parque Piauí Catarina / Bela Vista Saci / Parque São João O bairro Lourival Parente compreende a área contida no seguinte perímetro partindo do entroncamento da Av. Prefeito Wall Ferraz (BR-316) com a Rua Senador Joaquim Paranaguá, segue, por esta, até a Rua Frederico Clark e, depois pelas ruas XV do Conjunto Morada Nova, Gonçalves Dias, Alberto Leal Nunes, Colombo (Rua 14, no Loteamento Parque Cristiane) e Radialista Benedito Assis, retomando à Av. Prefeito Wall Ferraz; por esta atinge a Av. 19 de Outubro; segue na direção oeste e chega à Av. Henry Wall de Carvalho; continua, por esta, até a Rua Afonso Pena, pela qual atinge a Av. Prefeito Wall Ferraz (BR-316), retomando ao ponto de partida. ",
+    "inicio": "0650h ",
+    "termino": "0845h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "14 ",
+    "bairro": "MACAÚBA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Macaúba compreende a área contida no seguinte perímetro partindo do cruzamento das avenidas Nações Unidas e Miguel Rosa, segue, em direção leste, pela Av. Nações Unidas, até a Rua Doutor Área Leão; depois, pela Rua Porto e, novamente, pela Rua Doutor Area Leão, atinge a Av. Industrial Gil Martins, prosseguindo, em sentido oeste, até a Av. Miguel Rosa, pela qual retoma ao ponto de partida ",
+    "inicio": "1825h ",
+    "termino": "0115h ",
+    "dias": "TER, QUI e SAB NOTURNO "
+}, {
+    "code": "75 ",
+    "bairro": "MAFRENSE ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Mafrense compreende a área contida no seguinte perímetro começa no encontro da Rua Manoel Aguiar Filho com a Rua Desembargador Vaz da Costa; segue, por esta, em direção leste, até a Alameda Domingos Mafrense, pela qual alcança a Rua Tomaz Rebelo; daí, segue até a Alameda Mestre João Isidoro França, atingindo a Rua Técnico Joaquim Soares; segue pela Rua Angico e, por esta, chega à Rua Rui Barbosa, prosseguindo até a Rua Pantanal e depois pelas ruas Presidente Lincoln e Hiroshima; por esta, até a Rua Francisco Pimentel Cunha e, por último atinge a Rua Manoel Aguiar Filho, retomando ao ponto de partida. ",
+    "inicio": "2202h ",
+    "termino": "0025h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "76 ",
+    "bairro": "MAFUÁ ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Mafuá compreende a área contida no seguinte perímetro começando no encontro da Av. Miguel Rosa com a Rua Rui Barbosa, segue, por esta, em direção norte, até a Alameda Pamaíba, pela qual continua, em direção leste, até a Rua Anísio de Abreu; daí, prossegue até a Av. Miguel Rosa, retomando ao ponto de partida ",
+    "inicio": "2124h ",
+    "termino": "0306h ",
+    "dias": "SEG, QUA E SEX NOTURNO "
+}, {
+    "code": "77 ",
+    "bairro": "MARQUÊS ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Marquês compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Anísio de Abreu com a Av. Miguel Rosa, segue, em direção norte, pela Rua Anísio de Abreu, até a Rua Pernambuco; alcança a Rua Primeiro de Maio, pela qual atinge a Alameda Pamaíba; chega, por esta, à Rua 13 de Março, por onde continua até a Rua Clodoaldo Freitas; prossegue, por esta, até a Av. Jacob Almendra e, a seguir, até a Av. Miguel Rosa, retomando ao ponto de partida ",
+    "inicio": "2120h ",
+    "termino": "0310h ",
+    "dias": "SEG,QUA, e SEX NOTURNO( Av. Alameda parnaíba até a Av. Miguel Rosa) TER,QUI, e SAB (Av. Alameda Parnaíba até Av. Petrônio Portella) "
+}, {
+    "code": "78 ",
+    "bairro": "MATADOURO ",
+    "zona": "NORTE ",
+    "descricao": "0 bairro Matadouro compreende a área contida no seguinte perímetro partindo do alinhamento da Rua Vereador Álvaro Monteiro no eixo do Rio Pamaíba, segue, pela citada rua, até a Rua José Compasso; depois, pela Rua Martinelli Cavalca, atinge a Rua Rui Barbosa, pela qual prossegue até a Rua Pamaguá, alcança, a Rua Minas Gerais, por onde atinge o eixo do Rio Pamaíba e, daí, segue em direção norte até o ponto de partida. ",
+    "inicio": "2118h ",
+    "termino": "0137h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "79 ",
+    "bairro": "MATINHA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Matinha compreende a área contida no seguinte perímetro partindo do alinhamento da Rua Ceará, no eixo do Rio Pamaíba, segue por aquela rua, em direção leste, até a Av. Santos Dumont; continua, então, até a Rua Rui Barbosa, pela qual prossegue até a Av. Miguel Rosa; daí, em direção oeste, atinge a Ponte João Luís Ferreira e, pelo eixo do Rio Pamaíba, retoma ao ponto de partida. ",
+    "inicio": "1942h ",
+    "termino": "0222h ",
+    "dias": "SEG,QUAeSEX NOTURNO "
+}, {
+    "code": "80 ",
+    "bairro": "MEMORARE ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Memorare compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Castelo do Piauí com a Rua Jerumenha, atinge, por esta, a Av. União; prossegue, em direção oeste, até a Rua Sotero Vaz da Silveira, pela qual alcança a Rua Castelo do Piauí, retomando ao ponto de partida. ",
+    "inicio": "2305h ",
+    "termino": "0241h ",
+    "dias": "TER, QUI e SAB NOTURNO "
+}, {
+    "code": "81 ",
+    "bairro": "MOCAMBINHO ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Mocambinho compreende a área contida no seguinte perímetro partindo do eixo do Rio Poti, no alinhamento da Rua Fotógrafo Carioca, segue, por este alinhamento e pela própria via, até a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho) por esta, atinge a Rua Amarante, pela qual segue até a Av Dr. Antonio Pedreira Martins e, depois, até as ruas Iguatu, Algaroba e Menino Jesus, pela qual segue, em direção norte, até a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho); por esta e seu alinhamento, atinge o eixo do Rio Poti, pelo qual retoma ao ponto de partida. ",
+    "inicio": "1857h ",
+    "termino": "0224h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "15 ",
+    "bairro": "MONTE CASTELO ",
+    "zona": "SUL ",
+    "descricao": "0 bairro Monte Castelo compreende a área contida no seguinte perímetro; partindo do entroncamento da Av. Nações Unidas com as ruas Doutor Area Leão e Juvêncio Carvalho, segue, por esta, e pela Rua São Francisco, até o entroncamento da Av. José dos Santos e Silva com a Rua Picos, continuando, pela Rua Picos, até a Av. Odilon Araújo; pela citada avenida, alcança a Av. Barão de Castelo Branco, seguindo, por esta, até a Av. Industrial Gil Martins, pela qual prossegue, em sentido oeste, até a Rua Doutor Area Leão; depois, Rua Porto e, novamente, Rua Doutor Area Leão; daí, continua, em sentido norte, até o ponto de partida. ",
+    "inicio": "1822h ",
+    "termino": "2115h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "82 ",
+    "bairro": "MONTE VERDE ",
+    "zona": "NORTE ",
+    "descricao": "área contida no seguinte perímetro partindo do encontro da Rua XX do Parque Wall Ferraz com a Rua Chico Conrado, segue, por esta, até a Rua 10 do Loteamento Santa María da Codipi e, depois pela Av. Sérgio Motta; chega a Rua Amadeus Paulo e, rumo sul, atinge o alinhamento do contorno sul do Residencial Paulo de Tarso; por este contorno, alcança o limite oeste do Conjunto Jacinta Andrade; por este, prossegue até o ponto com coordenadas 4o 59 43,71 Sul e 42° 48' 42,59 Oeste, depois, com 85 metros atinge o ponto com coordenadas 4o 59 45,84 Sul e 42° 48 44,35\" Oeste; seguindo 977 metros, por divisa de gleba, chega ao ponto de coordenadas 4° 59 56,63\" Sul e 42° 49 14,38\" Oeste, no limite leste da Vila Monte Alegre; daí, pela Rua Monte Alto atravessa a Rua Amadeus Paulo e pela Av. Perimetral 2, pela Rua Jornalista Ronaldo Michael e pelo contorno do Residencial Francisca Trindade, alcança a Rua XX do Parque Wall Ferraz, retomando ao ponto inicial ",
+    "inicio": "0700h ",
+    "termino": "1500h ",
+    "dias": "TER, QUI e SAB DIURNO "
+}, {
+    "code": "105 ",
+    "bairro": "MORADA DO SOL ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Morada do Sol compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas Senador Area Leão e Presidente Kennedy (PM 12), segue, por esta, em sentido norte, até a Av. João Antônio Leitão, pela qual prossegue até a Rua José Torquato Viana e depois, até a Rua Jaime da Silveira; continua, por esta, até a Av. Senador Area Leão, por onde retoma ao ponto de partida. ",
+    "inicio": "1851h ",
+    "termino": "0120h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "16 ",
+    "bairro": "MORADA NOVA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Morada Nova compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas Prefeito Wall Ferraz (BR-316) e Getúlio Vargas (BR-343), segue, por esta, até a Rua Quinze de Novembro, depois pelas ruas Cícero Soares e Gonçalves Dias; atinge a Rua XV do Conjunto Morada Nova e a Rua Embaixador Frederico Clark, pela qual alcança a Rua Joaquim Paranaguá e a Av. Prefeito Wall Ferraz (BR316), retomando ao ponto de partida. ",
+    "inicio": "0900h ",
+    "termino": "1010h ",
+    "dias": "DIÁRIO DIURNO "
+}, {
+    "code": "83 ",
+    "bairro": "MORRO DA ESPERANÇA ",
+    "zona": "NORTE ",
+    "descricao": "0 bairro Morro da Esperança compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Alcides Freitas com a Rua 13 de Março, segue, por esta, em sentido norte, até a Alameda Pamaíba; alcança a Rua Primeiro de Maio, por onde prossegue até a Rua Santa Isabel; por esta, alcança a Rua Alexis Diniz e, depois, a Rua 11 de Agosto; por esta e seu prolongamento, atinge o eixo do Rio Poti; seguindo o curso dágua, em direção sul, chega ao alinhamento da Av. Jacob Almendra e, por esta, chega à Rua Alcides Freitas; daí, retoma ao ponto de partida ",
+    "inicio": "2146h ",
+    "termino": "2245h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "106 ",
+    "bairro": "MORROS ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Morros compreende a área contida no seguinte perímetro começa no encontro da Rua Luiz Lopes Sobrinho com a Av. Presidente Kennedy (PI-112), seguindo por esta, até a Rua Domingos de Pádua Rego; daí, continua até a Av. Zequinha Freire, pela qual, rumo sul, atinge a Rua Luiz Lopes Sobrinho; retomando ao ponto de partida. ",
+    "inicio": "0940h ",
+    "termino": "1330h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "17 ",
+    "bairro": "NOSSA SENHORA DAS GRAÇAS",
+    "zona": "SUL ",
+    "descricao": "O bairro Nossa Senhora das Graças compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas Miguel Rosa, Joaquim Ribeiro e José dos Santos e Silva, segue, por esta, até a Rua São Francisco e, depois, até a Rua Juvêncio Carvalho; daí, prossegue até a Av. Nações Unidas, atingindo, em direção oeste, a Rua 7 de Setembro; continua, por esta, até a Av. Joaquim Ribeiro, por onde, em direção leste, retoma ao ponto de partida ",
+    "inicio": "1823h ",
+    "termino": "1900h ",
+    "dias": "TER, QUI e SAB NOTURNO "
+}, {
+    "code": "107 ",
+    "bairro": "NOIVOS ",
+    "zona": "LESTE ",
+    "descricao": "O bairro dos Noivos compreende a área contida no seguinte perímetro partindo do eixo do Rio Poti sob a Ponte Juscelino Kubitschek, segue pela Av. João XXIII até a Rua Professor Pires Gaioso; continua, rumo sul, até a Av. Noronha Almeida, pela qual e respectivo alinhamento, prossegue, em sentido oeste, até o eixo do Rio Poti e, daí, retoma ao ponto de partida. ",
+    "inicio": "1830h ",
+    "termino": "0001h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "84 ",
+    "bairro": "NOVA BRASÍLIA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Nova Brasília compreende a área contida no seguinte perímetro partindo do encontro da Rua João Henrique Rebelo com a Rua Rui Barbosa, segue, por esta, até a Rua Angico; atinge a Rua Técnico Joaquim Soares, de onde prossegue até a Alameda Mestre João Isidoro França, pela qual continua, em sentido sul, até a Rua Anísio Pires; por esta, chega à Av. Campo Maior e à Rua João Henrique Rebelo, pela qual retoma ao ponto de partida. Fonte Prefeitura ",
+    "inicio": "2141h ",
+    "termino": "2205h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "48 ",
+    "bairro": "NOVO HORIZONTE ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Novo Horizonte compreende a área contida no seguinte perímetro começa no cruzamento da Rua Joaquim Nelson com a Av. Noé Mendes, seguindo por esta até a Rua Desembargador Antônio Santana; daí, continua até a Estrada da Redonda, pela qual atinge a Rua Adão Medeiros Soares; por esta via, segue até a Rua Humberto Carvalho Santos e, depois, até a Rua Joaquim Nelson, retomando ao ponto de partida. ",
+    "inicio": "0700h ",
+    "termino": "1324h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "108 ",
+    "bairro": "NOVO URUGUAI ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Novo Uruguai compreende a área contida no seguinte perímetro começa no encontro das avenidas Dom Hélder Câmara e Prefeito Hugo Bastos, segue, por esta até a linha de perímetro urbano; depois, pela Av. João XXIII (BR-343), até a Av. Dom Hélder Câmara, retomando ao ponto de partida. ",
+    "inicio": "1442h ",
+    "termino": "1611h ",
+    "dias": "TER,QUI, e SAB DIURNO "
+}, {
+    "code": "85 ",
+    "bairro": "OLARIAS ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Olarias compreende a área contida no seguinte perímetro partindo do encontro dos rios Pamaíba e Poti, segue pelo eixo do Rio Poti até o alinhamento da Rua Manoel Aguiar Filho e, depois, pela Rua Francisco Pimentel Cunha até o alinhamento da Rua 4 da Vila Apolônia; por esta rua e respectivo prolongamento, atinge eixo do Rio Pamaíba, retomando ao ponto inicial. ",
+    "inicio": "1928h ",
+    "termino": "2005h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "86 ",
+    "bairro": "PARQUE ALVORADA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Parque Alvorada compreende a área contida no seguinte perímetro partindo do cruzamento das ruas Rui Barbosa e João Henrique Rabelo, prossegue, por esta última, até a Av. Campo Maior, por onde retoma à Rua Rui Barbosa e, daí, até o ponto de partida ",
+    "inicio": "1927h ",
+    "termino": "2140h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "87 ",
+    "bairro": "PARQUE BRASIL ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Parque Brasil compreende a área contida no seguinte perímetro começando no eixo do Rio Pamaíba, no alinhamento da Rua Jornalista Ronaldo Michael, segue, por esta, até a Av. Perimetral 2 e, depois, pelas ruas Monte Alto, e Rosana Neres; atinge a Av. Josué Moura Santos; por esta via e seu alinhamento, atinge o Rio Pamaíba, retomando ao ponto inicial. ",
+    "inicio": "1300h ",
+    "termino": "1500h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "49 ",
+    "bairro": "PARQUE IDEAL ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Parque Ideal compreende a área contida no seguinte perímetro partindo do encontro da Rua Joaquim Nelson com a via férrea, continua, por esta, até a Rua Farmacêutico José Pereira Lopes, seguindo-a até a Av. Noé Mendes; por esta chega à Rua Joaquim Nelson, pela qual retoma ao ponto de partida. ",
+    "inicio": "0713h ",
+    "termino": "1015h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "18 ",
+    "bairro": "PARQUE JACINTA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Parque Jacinta compreende a área contida no seguinte perímetro partindo do encontro das avenidas Alencar Matos e Prefeito Wall Ferraz (BR-316), segue, por esta, até a via de acesso ao Aterro Sanitário de Teresina (rua sem denominação 02821), pela qual, atinge o alinhamento e, depois, a própria Rua José dos Santos Chaves; daí, retoma à Av. Alencar Matos e, por esta, ao ponto de partida ",
+    "inicio": "1245h ",
+    "termino": "1315h ",
+    "dias": "SEG, QUA e SEX DIURNO "
+}, {
+    "code": "19 ",
+    "bairro": "PARQUE JULIANA ",
+    "zona": "SUL ",
+    "descricao": "anto Antônio / Zona Rural Brasilar Zona Rural Parque Jacinta O bairro Parque Juliana compreende a área contida no seguinte perímetro partindo do encontro da Av. Alencar Matos com a Rua José dos Santos Chaves, segue, por esta, até a via de acesso ao Aterro Sanitário de Teresina (rua sem denominação 02821); prossegue, pelo limite oeste do terreno do referido aterro e atinge a linha de perímetro urbano, pela qual chega à Av. Alencar Matos e retoma ao ponto inicial. ",
+    "inicio": "1315h ",
+    "termino": "1345h ",
+    "dias": "SEG, QUA e SEX DIURNO "
+}, {
+    "code": "20 ",
+    "bairro": "PARQUE PIAUÍ ",
+    "zona": "SUL ",
+    "descricao": "O bairro Parque Piauí compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas Henry Wall de Carvalho (PI 130) e 19 de Outubro, segue, por esta, até a Av. Prefeito Wall Ferraz (BR316); prossegue, na direção sul, até a Av. Walfrido Salmito, pela qual atinge a Av. Henry Wall de Carvalho (PI-130), retomando ao ponto de partida ",
+    "inicio": "0646h ",
+    "termino": "1410h ",
+    "dias": "SEG,QUA e SEX (A partir da Av. Marechal Juarez Tavora ate Av. Walfrido Salmito) TER,QUI e SAB (a partir da Av. Mal. Juarez Tavora ate Rua Dezenove de Outubro "
+}, {
+    "code": "50 ",
+    "bairro": "PARQUE POTI ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Parque Poti compreende a área contida no seguinte perímetro partindo do encontro das ruas Desembargador Antonio Santana e Dr. Egídio Mota, segue, por esta, até a Rua Ervitônio Teodoro; por esta e seu alinhamento, até o eixo do Rio Poti, pelo qual atinge o alinhamento da Rua Desembargador Antonio Santana; por este alinhamento e pela própria via, retoma ao ponto de partida. ",
+    "inicio": "0800h ",
+    "termino": "1036h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "21 ",
+    "bairro": "PARQUE SÃO JOÃO ",
+    "zona": "SUL ",
+    "descricao": "O bairro Parque São João compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas Getúlio Vargas (BR-316) e Henry Wall de Carvalho (PI-130), segue, por esta, até o alinhamento da Rua Francisca de Melo Lobo (contorno norte do Conjunto Saci); continua, por este alinhamento e a própria via, até a Rua Cajueiro e, daí, rumo norte, até a Avenida Getúlio Vargas (BR-316), pela qual atinge o ponto de partida. ",
+    "inicio": "0820h ",
+    "termino": "1120h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "22 ",
+    "bairro": "PARQUE SUL ",
+    "zona": "SUL ",
+    "descricao": "O bairro Parque Sul compreende a área contida no seguinte perímetro partindo do encontro da Av. Doutor Arquelau Siqueira Amorim com a Rua Raimundo Porfírio Farias, segue, por esta, até a Rua Doutor Aírton Freitas; por esta e via e seu alinhamento atinge a Estrada da Alegria; pela estrada, chega ao alinhamento e depois, à própria Av. Doutor Arquelau Siqueira Amorim; daí, chega à Rua Raimundo Porfírio Farias e retoma ao ponto inicial. ",
+    "inicio": "0655h ",
+    "termino": "1010h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "109 ",
+    "bairro": "PEDRA MOLE ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Pedra Mole compreende a área contida no seguinte perímetro começando no alinhamento da Rua Caçapava, no eixo do Rio Poti, segue pelo citado alinhamento e pela própria via até a linha do perímetro urbano; prossegue, por esta, até o alinhamento da Rua Vereador Joel Loureiro; pela qual, chega à Av. Josué Moura Santos, por esta, atinge o entroncamento com a Rua Ana Maria Gonçalves Silva; pelo prolongamento desta, rumo sul, atinge o eixo do Rio Poti, retomando ao ponto de partida ",
+    "inicio": "1045h ",
+    "termino": "1105h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "23 ",
+    "bairro": "PEDRA MIÚDA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Pedra Miúda está localizada entre a Estrada da Pedra Miúda e a av. prefeito Wall Ferraz ",
+    "inicio": "1120h ",
+    "termino": "1310h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "24 ",
+    "bairro": "PIÇARRA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Piçarra compreende a área contida no seguinte perímetro partindo do cruzamento das avenidas Miguel Rosa, Joaquim Ribeiro e José dos Santos e Silva, segue, pela Av. Miguel Rosa, até a Rua São Pedro; continua, pela citada rua, até a via férrea, pela qual atinge a Rua Goiás; prossegue, pela mencionada rua, até a Av. Higino Cunha, alcançando a Rua Mato Grosso; continua pela Av. São Raimundo, atingindo a Rua Desembargador José Messias, pela qual segue até a Av. Odilon Araújo; por esta, continua até a Rua Picos, por onde segue até a Av. José dos Santos e Silva e, daí, retoma ao ponta de partida ",
+    "inicio": "2204h ",
+    "termino": "0123h ",
+    "dias": "SEG,QUA e SEX NOTURNO (Av. Higino Cunha até a Av. Frei Serafim) TER,QUI, e SEX NOTURNO (Av. Higino Cunha até Rua Picos) "
+}, {
+    "code": "88 ",
+    "bairro": "PIÇARRA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Piçarra compreende a área contida no seguinte perímetro partindo do cruzamento das avenidas Miguel Rosa, Joaquim Ribeiro e José dos Santos e Silva, segue, pela Av. Miguel Rosa, até a Rua São Pedro; continua, pela citada rua, até a via férrea, pela qual atinge a Rua Goiás; prossegue, pela mencionada rua, até a Av. Higino Cunha, alcançando a Rua Mato Grosso; continua pela Av. São Raimundo, atingindo a Rua Desembargador José Messias, pela qual segue até a Av. Odilon Araújo; por esta, continua até a Rua Picos, por onde segue até a Av. José dos Santos e Silva e, daí, retoma ao ponta de partida ",
+    "inicio": "2204h ",
+    "termino": "0123h ",
+    "dias": "SEG,QUA e SEX NOTURNO (Av. Higino Cunha até a Av. Frei Serafim) TER,QUI, e SEX NOTURNO (Av. Higino Cunha até Rua Picos) "
+}, {
+    "code": "110 ",
+    "bairro": "PIÇARREIRA ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Piçarreira compreende a área contida no seguinte perímetro começando no cruzamento das avenidas João Antonio Leitão e Presidente Kennedy (PI-112), segue, por esta, até a Rua Tio Bentes; depois, Rua Capitão Vanderley e, novamente, Rua Tio Bentes; continua, por esta via e seu prolongamento, até a Av. Maria Antonieta Burlamaqui; atinge a Av. João Antonio Leitão e, daí, retoma ao ponto inicial. ",
+    "inicio": "0732h ",
+    "termino": "1054h ",
+    "dias": "TER, QUIN E SAB DIURNO "
+}, {
+    "code": "25 ",
+    "bairro": "PIO XII ",
+    "zona": "SUL ",
+    "descricao": "O bairro Pio XII compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Murilo Braga com a Av. Barão de Gurguéia, segue, em direção leste, até a Av. Miguel Rosa; daí, pela citada avenida, em sentido sul, chega à Av. Industrial Gil Martins, pela qual prossegue, em sentido oeste, até a Av. Barão de Gurguéia e, por esta, em sentido norte, até o ponto de partida. ",
+    "inicio": "2027h ",
+    "termino": "2100h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "89 ",
+    "bairro": "PIRAJÁ ",
+    "zona": "NORTE ",
+    "descricao": "0 bairro Pirajá compreende a área contida no seguinte perímetro partindo do alinhamento da Rua Espírito Santo, no eixo do Rio Pamaíba, segue, em direção leste, até a Rua Pamaguá; daí, continua até a Rua Sergipe e, por esta, até a Av. Santos Dumont; atingindo o cruzamento com a Rua Ceará, prossegue, em direção oeste, pela citada rua, até o eixo do Rio Pamaíba, de onde retoma ao ponto de partida. ",
+    "inicio": "1927h ",
+    "termino": "2000h ",
+    "dias": "SEG,QUAe SEX NOTURNO "
+}, {
+    "code": "111 ",
+    "bairro": "PLANALTO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Planalto compreende a área contida no seguinte perímetro começa no cruzamento das avenidas Juiz João Almeida e Homero Castelo Branco, seguindo, por esta, até a Rua Ulisses Marques; daí, alcança a Av. Presidente Kennedy (PI-112); continua até a Rua Desembargador Adalberto Correia Lima e, depois, até a Av. Juiz João Almeida, pela qual retoma ao ponto de partida ",
+    "inicio": "1843h ",
+    "termino": "0145h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "90 ",
+    "bairro": "PORENQUANTO ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Porenquanto compreende a área contida no seguinte perímetro partindo do cruzamento da Av. Jacob Almendra com a Rua Clodoaldo Freitas, segue, por esta, até a Rua 13 de Março e, daí, até a Rua Alcides Freitas; continua, em sentido leste, até a Av. Jacob Almendra, por esta e por seu alinhamento, até o eixo do Rio Poti; prossegue, pelo curso dágua, em direção sul, até o alinhamento da Rua Juliano Moreira, pela qual atinge a Rua Nina Rodrigues; por esta, alcança a Av Jacob Almendra e, daí, retoma ao ponto de partida. ",
+    "inicio": "2141h ",
+    "termino": "2145h ",
+    "dias": "SEG,QUA e SEX NOTURNO (Av. Jacob Almendra até a rua Juliano Moreira) TER, QUI e SAB NOTURNO (Av. Jacob Almendra até Av. Alameda Parnaíba) "
+}, {
+    "code": "26 ",
+    "bairro": "PORTAL DA ALEGRIA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Portal da Alegria corresponde à área acrescida à zona urbana pela Lei n° 2.596, de 01 de dezembro de 1997, estando tal área contida pelas ruas Jerusalém e Professora Rosa da Cunha Barros e pela Estrada da Pedra Miúda. ",
+    "inicio": "1030h ",
+    "termino": "1130h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "112 ",
+    "bairro": "PORTO DO CENTRO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Porto do Centro compreende a área contida no seguinte perímetro começa no encontro das avenidas Sebastião Leal e Presidente Kennedy (PI-112), pela qual segue até a Rua Luiz Lopes Sobrinho; percorre esta até a Av. Zequinha Freire; daí, em sentido sul, continua até a Rua Urano e, depois, pela Rua João Pereira Caldas, atinge a Avenida Sebastião Leal e, por esta, retoma ao ponto de partida. ",
+    "inicio": "0700h ",
+    "termino": "0914h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "91 ",
+    "bairro": "POTI VELHO ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Poti Velho compreende a área contida no seguinte perímetro partindo do encontro das ruas Desembargador Vaz da Costa e Manoel Aguiar Filho, segue por esta e seu prolongamento até o eixo do Rio Poti; alcança o alinhamento da Rua Sapucaia; depois, Rua Cedro e Rua Sapucaia novamente; daí, segue até a Rua Jean Lelones e, a seguir, a Alameda Mestre João Isidoro França, por esta atinge a Rua Tomás Rebelo; prossegue até a Alameda Domingos Mafrense e atinge a Rua Desembargador Vaz da Costa, retomando ao ponto inicial. ",
+    "inicio": "2006h ",
+    "termino": "2201h ",
+    "dias": "TER,QUI, e SAB NOTURNO "
+}, {
+    "code": "92 ",
+    "bairro": "PRIMAVERA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Primavera compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Primeiro de Maio com a Rua Território Fernando de Noronha, segue, por esta, até a Av. Duque de Caxias; atinge a Rua Quilombo de Palmares, de onde prossegue até o eixo do Rio Poti; toma a direção sul até a Rua 11 de Agosto, seguindo até a Rua Alexis Diniz e, a seguir, até a Rua Santa Isabel; por esta, atinge a Rua Primeiro de Maio, por onde retoma ao ponto de partida. ",
+    "inicio": "2246h ",
+    "termino": "0302h ",
+    "dias": "TER, QUI e SEX NOTURNO "
+}, {
+    "code": "27 ",
+    "bairro": "PROMORAR ",
+    "zona": "SUL ",
+    "descricao": "O bairro Promorar compreende a área contida no seguinte perímetro partindo do encontro das avenidas Walfrido Salmito e Prefeito Wall Ferraz (BR-316), segue, pela rodovia, até a Rua Odilon Nunes; continua, por esta, até a Rua 11 de Julho; por esta, rumo norte, atinge a Av. Walfrido Salmito e retoma ao ponto de partida. ",
+    "inicio": "0636h ",
+    "termino": "1320h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "93 ",
+    "bairro": "REAL COPAGRE ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Real Copagre compreende a área contida no seguinte perímetro parte do cruzamento da Rua Primeiro de Maio com a Av. União, pela qual segue, em direção leste, até o encontro com a Av. Duque de Caxias e, por esta, até a Rua Território Fernando de Noronha; prossegue, em sentido oeste, até a Rua Primeiro de Maio e, daí, em sentido norte, até o ponto de partida ",
+    "inicio": "1842h ",
+    "termino": "2304h ",
+    "dias": "TER,QUI e SEX NOTURNO "
+}, {
+    "code": "113 ",
+    "bairro": "RECANTO DAS PALMEIRAS ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Recanto das Palmeiras compreende a área contida no seguinte perímetro começa no cruzamento da Av. Deputado Paulo Ferraz (BR-343) com a Av. dos Expedicionários, seguindo, por esta, até a Av. João XXIII, por onde prossegue, a oeste, até a Av. Deputado Paulo Ferraz (BR-343) e, daí, retoma ao ponto inicial ",
+    "inicio": "1837h ",
+    "termino": "2000h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "28 ",
+    "bairro": "REDENÇÃO ",
+    "zona": "SUL ",
+    "descricao": "O bairro Redenção compreende a área contida no seguinte perímetro partindo do cruzamento das avenidas Miguel Rosa e Industrial Gil Martins, segue, por esta, até a Rua Palmares, por esta, rumo sul, continua até a Av. Getúlio Vargas (BR-343), pela qual, atinge a Av. Miguel Rosa, retomando, então, ao ponto de partida. ",
+    "inicio": "1000h ",
+    "termino": "1400h ",
+    "dias": "TER,QUI e SEX DIURNO "
+}, {
+    "code": "51 ",
+    "bairro": "REDONDA ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Redonda compreende a área contida no seguinte perímetro começando no eixo do Rio Poti, no alinhamento da Rua Joaquim Nelson, segue por este alinhamento e pela citada rua, até a Rua Humberto Carvalho Santos; daí, até a Rua Adão Medeiros Soares; depois, por esta, segue até a Estrada da Redonda; depois, pela Rua Desembargador Antonio Santana e seu alinhamento chega ao eixo do Rio Poti, pelo qual retoma ao ponto de partida ",
+    "inicio": "0800h ",
+    "termino": "1300h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "29 ",
+    "bairro": "SACI ",
+    "zona": "SUL ",
+    "descricao": "O bairro Saci compreende a área contida no seguinte perímetro partindo do entroncamento da Av. Henry Wall de Carvalho (PI-130) com a Rua General João Henrique Gayoso, segue, por esta e seu prolongamento, até o eixo do Rio Pamaíba, pelo qual atinge o alinhamento da Rua Francisca de Melo Lobo (contorno norte do Conjunto Saci); por esta via e seu prolongamento, alcança a Av. Henry Wall de Carvalho, retomando ao ponto de partida. ",
+    "inicio": "0735h ",
+    "termino": "1325h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "114 ",
+    "bairro": "SAMAPI ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Samapi compreende a área contida no seguinte perímetro partindo do encontro da Rua Tio Bentes com a Av. Presidente Kennedy (PI-112), segue, por esta, até a Rua Apoio XI e, depois, pela Av. Zequinha Freire até a Av. Maria Antonieta Burlamaqui; daí, pela Rua Tio Bentes; depois Rua Capitão Vanderley e, novamente, Rua Tio Bentes prossegue até a Av. Presidente Kennedy (PI-112), retomando ao ponto de partida. ",
+    "inicio": "0910h ",
+    "termino": "1105h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "30 ",
+    "bairro": "SANTA CRUZ ",
+    "zona": "SUL ",
+    "descricao": "O bairro Santa Cruz compreende a área contida no seguinte perímetro partindo do encontro da Rua Odilon Nunes com a Rua do Telégrafo, segue, por esta, até a Rua Nonato de Oliveira; daí, alcança a Rua 11 de Julho, pela qual, chega à Rua Odilon Nunes, retomando ao ponto de partida ",
+    "inicio": "0730h ",
+    "termino": "1100h ",
+    "dias": "SEG, QUA e SEX DIURNO "
+}, {
+    "code": "115 ",
+    "bairro": "SANTA ISABEL ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Santa Isabel compreende a área contida no seguinte perímetro começando no entroncamento da Av. João XXIII com a Rua Antonieta Ferraz, segue, por esta, até a Rua Jaime da Silveira; continua até a Av. Aquiles Wall Ferraz; em sentido leste, atinge a Av. Zequinha Freire, pela qual prossegue até a Av. João XXIII e daí, retoma ao ponto de partida ",
+    "inicio": "1108h ",
+    "termino": "1440h ",
+    "dias": "TER, QUI e SAB NOTURNO "
+}, {
+    "code": "116 ",
+    "bairro": "SANTA LIA ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Santa Lia compreende a área contida no seguinte perímetro começando no cruzamento das avenidas Av. Horácio Ribeiro e Maria Antonieta Burlamaqui, segue, por esta, até a Av. Zequinha Freire, pela qual alcança a Av. Horácio Ribeiro, daí retomando ao ponto inicial. ",
+    "inicio": "1023h ",
+    "termino": "1527h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "31 ",
+    "bairro": "SANTA LUZIA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Santa Luzia compreende a área contida no seguinte perímetro partindo do eixo do rio Pamaíba, sob a Ponte Engenheiro Alves Noronha, segue, em direção leste, pela Av. Getúlio Vargas (BR-316), até a Rua Cajueiro; depois, na direção sul, continua até a Rua Francisca de Melo Lobo; por esta e seu prolongamento, até o eixo do Rio Pamaíba, pelo qual retoma ao ponto de partida. ",
+    "inicio": "1202h ",
+    "termino": "1405h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "94 ",
+    "bairro": "SANTA MARIA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Santa Maria compreende a área contida no seguinte perímetro começando no eixo do Rio Pamaíba, no alinhamento da Rua Brás Honório, segue, por esta, até o contorno do Conjunto Residencial Jacinta Andrade; prossegue, por este contorno, até o limite sul do Residencial Paulo de Tarso; neste alinhamento, atinge a Rua Amadeus Paulo e, daí, rumo norte, chega â Av. Ministro Sérgio Motta; por esta avenida e pela Rua 10 do Loteamento Santa Maria da Codipi, alcança a Rua Chico Conrado; por esta via, segue até a Rua XX do Parque Wall Ferraz; rumo sul, e chega ao contorno leste do Residencial Francisca Trindade; daí, atinge a Rua Jornalista Ronaldo Michael, pela qual e respectivo alinhamento, chega ao eixo do Rio Pamaíba e retoma ao ponto de partida ",
+    "inicio": "0700h ",
+    "termino": "1600h ",
+    "dias": "TER, QUI e SAB DIURNO "
+}, {
+    "code": "95 ",
+    "bairro": "SANTA ROSA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Santa Rosa compreende a área contida no seguinte perímetro partindo do eixo do Rio Pamaíba, no alinhamento da Av. Josué Moura Santos, segue, por esta, até o limite leste da propriedade Santa Rosa; por este limite, rumo sul, atinge o Rio Poti, pelo qual, chega ao Rio Pamaíba, retomando ao ponto inicial. ",
+    "inicio": "0710h ",
+    "termino": "0730h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "32 ",
+    "bairro": "SANTO ANTÔNIO ",
+    "zona": "SUL ",
+    "descricao": "O bairro Santo Antônio compreende a área contida no seguinte perímetro partindo do encontro da Rua Nonato de Oliveira com a Rua do Telégrafo, segue, por esta, até a Rua Odilon Nunes; atravessa a Av. Prefeito Wall Ferraz (BR-316) e segue pela Rua Antonio Francisco Veras; por esta, atinge a Rua I do Loteamento Bela Vista São Lourenço; depois, prossegue, pela Rua Cândida da Costa Soares até a Rua Raimundo Porfírio Farias; continua até a linha de perímetro urbano, contorna o Aterro Sanitário de Teresina (limite oeste) e atinge a rua de acesso ao citado aterro (rua sem denominação 02821) atravessa a Av. Prefeito Wall Ferraz e chega à Rua Nonato de Oliveira, retomando ao ponto de partida ",
+    "inicio": "0640h ",
+    "termino": "1145h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "117 ",
+    "bairro": "SÃO CRISTÓVÃO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro São Cristóvão compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas João XXIII e Homero Castelo Branco, segue, por esta, até a Av. Dom Severino, pela qual prossegue, em direção leste, até a Av. Presidente Kennedy (PI-112); daí, em sentido sul, continua até a Av. Senador Área Leão, pela qual alcança a Rua Jaime da Silveira, voltando até encontrar a Rua Antonieta Ferraz; prossegue, por esta, em sentido sul, até a Av. João XXIII e, então, retoma ao ponto de partida. ",
+    "inicio": "1856h ",
+    "termino": "0130h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "118 ",
+    "bairro": "SÃO JOÃO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro São João compreende a área contida no seguinte perímetro começa no cruzamento da Rua Professor Pires Gaioso com a Av. João XXIII, por onde segue, em direção leste, até a Av. dos Expedicionários; prossegue até a Av. Deputado Paulo Ferraz (BR-343) e alcança a via férrea; continua, por esta, em direção oeste, até o eixo do Rio Poti; segue, por este, até o alinhamento da Av. Noronha Almeida, atingindo a Rua Professor Pires Gaioso, por onde retoma ao ponto inicial. ",
+    "inicio": "1950h ",
+    "termino": "0255h ",
+    "dias": "SEG,QUA e SEX NOTURNO "
+}, {
+    "code": "96 ",
+    "bairro": "SÃO JOAQUIM ",
+    "zona": "NORTE ",
+    "descricao": "O bairro São Joaquim compreende a área contida no seguinte perímetro começando no entroncamento da Rua Rui Barbosa com a Rua Martinelli Cavalca, segue por esta até a Rua José Compasso e, depois, até a Rua Vereador Álvaro Monteiro; desta, continua em linha reta até o eixo do Rio Pamaíba e, daí, em sentido norte, até o alinhamento da Rua 4 da Vila Apolônia; segue por esta e seu prolongamento até a Rua Francisco Pimentel Cunha; daí, no sentido sul, até a Rua Hiroshima e, a seguir, até a Rua Presidente Lincoln; prossegue até a Rua Pantanal, por onde atinge a Rua Rui Barbosa e retoma ao ponto de partida. ",
+    "inicio": "2007h ",
+    "termino": "0019h ",
+    "dias": "SEG,QUA,e SEX NOTURNO "
+}, {
+    "code": "33 ",
+    "bairro": "SÃO LOURENÇO ",
+    "zona": "SUL ",
+    "descricao": "O bairro São Lourenço compreende a área contida no seguinte perímetro partindo do encontro das ruas Doutor Aírton Freitas e Raimundo Porfírio Farias, segue, por esta até a Rua Cândida da Costa Soares; depois, pelo alinhamento da Rua I do Loteamento Bela Vista São Lourenço, chega à Rua XX do mesmo loteamento; por esta e seu alinhamento alcança o eixo do Rio Poti; pelo rio, atinge a linha de perímetro urbano, segue pela Estrada da Alegria e, depois, pela Rua Doutor Aírton Freitas, retoma ao ponto inicial. ",
+    "inicio": "1010h ",
+    "termino": "1450h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "34 ",
+    "bairro": "SÃO PEDRO ",
+    "zona": "SUL ",
+    "descricao": "O bairro São Pedro compreende a área contida no seguinte perímetro partindo do cruzamento da Rua Murilo Braga com a Av. Barão de Gurguéia, segue, pela citada avenida, em sentido sul, até o cruzamento da Av. Industrial Gil Martins; continua, em sentido oeste, até o eixo do Rio Pamaíba, por onde prossegue até o alinhamento da Rua Abílio Guimarães; daí, pelo alinhamento e pela própria via, atinge a Av. Pedro Freitas e, depois, a Rua Murilo Braga, retomando ao ponto de partida. ",
+    "inicio": "2051h ",
+    "termino": "0145h ",
+    "dias": "TER,QUI e SAB "
+}, {
+    "code": "54 ",
+    "bairro": "SÃO RAIMUNDO ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro São Raimundo compreende a área contida no seguinte perímetro partindo do cruzamento da via férrea com a Av. Deputado Paulo Ferraz (BR-343), segue, por esta, até a Rua Jacinto Rufino Macedo, por onde prossegue até o eixo do Rio Poti; daí, continua, em direção norte, até a via férrea, pela qual retoma ao ponto de partida ",
+    "inicio": "1243h ",
+    "termino": "1331h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "55 ",
+    "bairro": "SÃO SEBASTIÃO ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro São Sebastião compreende a área contida no seguinte perímetro começa no cruzamento das avenidas Noé Mendes e Professor Camillo Filho, pela qual segue até o limite sul do Loteamento Verdecap II; por este limite, segue até o eixo do Rio Poti; pelo rio, segue até o alinhamento e a própria Rua Ervitônio Teodoro; por esta via, atinge a Av. Noé Mendes e retoma ao ponto inicial. ",
+    "inicio": "0912h ",
+    "termino": "1230h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "119 ",
+    "bairro": "SATÉLITE ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Satélite compreende a área contida no seguinte perímetro começando no cruzamento das avenidas Presidente Kennedy (Pl-112) e Deputado Sebastião Leal, segue, por esta e pela Rua João Pereira Caldas, até a Rua Urano; daí, alcança a Av. Zequinha Freire, pela qual, rumo sul, chega à Rua Apoio XI, por esta, segue até a Av. Presidente Kennedy (PI-112), retomando ao ponto de partida. ",
+    "inicio": "0700h ",
+    "termino": "1200h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "120 ",
+    "bairro": "SOCOPO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Socopo compreende a área contida no seguinte perímetro começa no encontro da Rua Domingos de Pádua Rego com a Av. Presidente Kennedy (PI-112), segue, por esta, até a linha do perímetro urbano, pelo qual segue até a Rua Domingos de Pádua Rego e, por esta, retoma ao ponto de partida. ",
+    "inicio": "1120h ",
+    "termino": "1435h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "121 ",
+    "bairro": "TABAJARAS ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Tabajaras compreende a área contida no seguinte perímetro começa no encontro da Av. Presidente Kennedy (PI-112) com a Rua Genoveva, por esta e pelas ruas Santana, Lageada e Alterosas, chega a Rua Vereador Joel Loureiro; por esta e seu prolongamento atinge a linha do perímetro urbano, pela qual prossegue até a Av. Presidente Kennedy e, por esta, retoma ao ponto de partida ",
+    "inicio": "1252h ",
+    "termino": "1350h ",
+    "dias": "TER,QUI, e SAB DIURNO "
+}, {
+    "code": "35 ",
+    "bairro": "TABULETA ",
+    "zona": "SUL ",
+    "descricao": "0 bairro Tabuleta compreende a área contida no seguinte perímetro partindo do cruzamento das avenidas Industrial Gil Martins e Miguel Rosa, segue, em direção sul, até a Av. Getúlio Vargas (BR-316), pela qual prossegue, em direção oeste, até o eixo do Rio Pamaíba, sob a Ponte Engenheiro Alves Noronha, continua, daí, pela citado rio, até o alinhamento da Av. Industrial Gil Martins e, por esta retoma ao ponto de partida. ",
+    "inicio": "0700h ",
+    "termino": "1400h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "56 ",
+    "bairro": "TANCREDO NEVES ",
+    "zona": "SUDESTE ",
+    "descricao": "0 bairro Tancredo Neves compreende a área contida no seguinte perímetro começa no cruzamento da Av. Deputado Paulo Ferraz (BR-343) com a Rua Desembargador Manoel Felício Pinto, segue, por esta até a Av. Noé Mendes; pelo prolongamento desta, segue até o eixo do Rio Poti; pelo rio, segue até a Ponte Presidente Médici; pela ponte e pela Av. Deputado Paulo Ferraz (BR-343), retoma ao ponto de partida. ",
+    "inicio": "1107h ",
+    "termino": "1230h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "57 ",
+    "bairro": "TODOS OS SANTOS ",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Todos os Santos compreende a área contida no seguinte perímetro começa no cruzamento da via férrea com a Av. Professor Camillo Filho; segue, por esta até a linha de perímetro urbano; daí, prossegue em diversos rumos até encontrar o contorno norte do Loteamento Verdecap I; por este, atinge a Av. Professor Camillo Filho, retomando ao ponto inicial ",
+    "inicio": "1156h ",
+    "termino": "1330h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "36 ",
+    "bairro": "TRÊS ANDARES",
+    "zona": "SUL ",
+    "descricao": "O bairro Três Andares compreende a área contida no seguinte perímetro partindo do entroncamento da Rua Palmares com a Av. Industrial Gil Martins, segue, por esta e seu alinhamento, até o eixo do Rio Poti; pelo curso do rio, continua até a Ponte Presidente Médici; pela ponte e pela Av. Getúlio Vargas (BR-343), segue até a Rua Palmares, retomando ao ponto de partida. ",
+    "inicio": "0700h ",
+    "termino": "1412h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "37 ",
+    "bairro": "TRIUNFO ",
+    "zona": "SUL ",
+    "descricao": "O bairro Triunfo compreende a área contida no seguinte perímetro partindo do entroncamento das avenidas Henry Wall de Carvalho (PI 130) e Getúlio Vargas (BR-316), segue, por esta, até a Av. Prefeito Wall Ferraz (BR316); depois, até a Rua Afonso Pena; continua, rumo oeste, até a Henry Wall de Carvalho (PI-130); daí, retoma ao ponto de partida. ",
+    "inicio": "0626h ",
+    "termino": "0826h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "122 ",
+    "bairro": "URUGUAI ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Uruguai compreende a área contida no seguinte perímetro começando no cruzamento das avenidas João XXIII (BR-343) e Zequinha Freire, segue, por esta, até a Rua Alvina Fernandes Gameiro, prossegue pela Av. María José Marçal, por onde continua até a Av. Dom Hélder Câmara; daí, rumo sul, até a Av. João XXIII (BR-343) retomando ao ponto de partida. ",
+    "inicio": "0716h ",
+    "termino": "1018h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "123 ",
+    "bairro": "VALE DO GAVIÃO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Vale do Gavião compreende a área contida no seguinte perímetro começando no encontro da Rua Luiz Lopes Sobrinho com a Av. Zequinha Freire, segue, por esta, em sentido norte, até a linha do perímetro urbano, pela qual atinge a Rua Luiz Lopes Sobrinho e, por esta, retoma ao ponto de partida. ",
+    "inicio": "0834h ",
+    "termino": "1242h ",
+    "dias": "TER, QUI e SAB DIURNO "
+}, {
+    "code": "124 ",
+    "bairro": "VALE QUEM TEM ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Vale Quem Tem está localizado entre a rua Onda Verde, segue para rua III, segue para rua Doutor Hugo Prado, AV. Dom Hélder, rua Alvina Fernandes Gameiro, AV. Zequinha Freire. ",
+    "inicio": "0723h ",
+    "termino": "0936h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "58 ",
+    "bairro": "VERDECAP",
+    "zona": "SUDESTE ",
+    "descricao": "O bairro Verdecap compreende a parcela urbana do Loteamento Verdecap I. ",
+    "inicio": "0900h ",
+    "termino": "1030h ",
+    "dias": "SEG,QUA e SEX DIURNO "
+}, {
+    "code": "125 ",
+    "bairro": "VERDE LAR ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Verde Lar compreende a área contida no seguinte perímetro partindo do encontro da Av. Zequinha Freire com a Rua Luiz Lopes Sobrinho, segue, por esta até a linha de perímetro urbano; pela linha, alcança o contorno sul do Loteamento Verdelar I, prolongamento da Av. Prefeito Hugo Bastos; daí, segue pela Rua Doutor Hugo Prado e, depois pela Rua III do Loteamento Juruá, atinge o alinhamento e a própria Rua Onda Verde; desta chega à Av. Zequinha Freire e retoma ao ponto inicial ",
+    "inicio": "0937h ",
+    "termino": "1059h ",
+    "dias": "TER,QUI e SAB DIURNO "
+}, {
+    "code": "38 ",
+    "bairro": "VERMELHA ",
+    "zona": "SUL ",
+    "descricao": "O bairro Vermelha compreende a área contida no seguinte perímetro partindo do eixo do Rio Pamaíba, no alinhamento da Av. Joaquim Ribeiro, segue, por esta, em direção leste, até a Rua Sete de Setembro; continua, por esta até a Av. Nações Unidas e, daí, pela Av. Miguel Rosa atinge a Rua Murilo Braga; prossegue até a Av. Pedro Freitas e, em sentido norte, chega à Rua Abílio Guimarães, pelo qual e seu alinhamento atinge o eixo do Rio Pamaíba, retomando, por este, ao ponto inicial. ",
+    "inicio": "1826h ",
+    "termino": "0218h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "97 ",
+    "bairro": "VILA OPERÁRIA ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Vila Operária compreende a área contida no seguinte perímetro partindo do cruzamento da Alameda Pamaíba com a Av. Santos Dumont, segue, por esta até a Rua Pernambuco; depois pela Rua Area Leão e novamente Rua Pernambuco, continua, em sentido leste, até a Rua Anísio de Abreu, pela qual prossegue, em direção sul, até a Alameda Pamaíba e, daí, retoma ao ponto de partida ",
+    "inicio": "2027h ",
+    "termino": "2225h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "98 ",
+    "bairro": "VILA SÃO FRANCISCO ",
+    "zona": "NORTE ",
+    "descricao": "O bairro Vila São Francisco compreende a área contida no seguinte perímetro partindo do eixo do Rio Poti, no alinhamento da Rua Amarante, segue, pelo rio, até o alinhamento da Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho); por esta, atinge, em seqüência as ruas Menino Jesus, Algaroba e Iguatu e; chegando à Av. Dr. Antônio Pedreira Martins, segue até a Rua Amarante; por esta e seu alinhamento atinge o eixo do RioPoti, retomando ao ponto de partida ",
+    "inicio": "1945h ",
+    "termino": "2017h ",
+    "dias": "TER,QUI e SAB NOTURNO "
+}, {
+    "code": "126 ",
+    "bairro": "ZOOBOTÂNICO ",
+    "zona": "LESTE ",
+    "descricao": "O bairro Zoobotânico compreende a área contida no seguinte perímetro partindo do encontro da Av. Presidente Kennedy (PI-112) com a Rua Ulisses Marques, segue, por esta e seu alinhamento até o eixo do Rio Poti, pelo qual alcança o alinhamento e a própria Rua do Fio e, depois, pela Rua Rafaello Rinaldi, alcança a Av Kennedy, retomando ao ponto inicial ",
+    "inicio": "1210h ",
+    "termino": "1410h ",
+    "dias": "TER,QUI e SEX DIURNO "
+},
+{
+    "code": "53 ",
+    "bairro": "RENASCENÇA",
+    "zona": "SUDESTE",
+    "descricao": " ",
+    "inicio": "",
+    "termino": "",
+    "dias": ""
+  },
+  {
+    "code": "52 ",
+    "bairro": "ÁRVORES VERDES",
+    "zona": "",
+    "descricao": " ",
+    "inicio": "",
+    "termino": "",
+    "dias": ""
+  }]
